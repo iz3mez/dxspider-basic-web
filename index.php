@@ -31,9 +31,9 @@
 header("refresh: 3");
 
 $servername = "localhost";
-$username = "youusernamedatabase";
-$password = "youpassworddatabase";
-$dbname = "youdatabasename";
+$username = "YOUR-DB-USER";
+$password = "YOUR-DB-PASSWORD";
+$dbname = "YOUR-DB-NAME";
 
 $conn = new mysqli($servername, $username, $password, $dbname, 3306);
 if ($conn->connect_error) { die("SQL ERROR: " . $conn->connect_error); }
