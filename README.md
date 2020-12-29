@@ -1,4 +1,4 @@
-# dxspider-basic-web
+# dxspider basic web
 Simple php page for dxspider cluster database.
 
 Configure the connection to the MySQL database, edit local/DXVars.pm:
