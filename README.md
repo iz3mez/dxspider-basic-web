@@ -10,3 +10,6 @@ $dsn = "dbi:mysql:YOUR-DB-NAME:localhost:3306";
 $dbuser = "YOUR-DB-USER";
 
 $dbpass = "YOUR-DB-PASSWORD";
+
+# dxspider view demo
+https://cluster.iz3mez.it/mobile/
