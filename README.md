@@ -11,5 +11,5 @@ $dbuser = "YOUR-DB-USER";
 
 $dbpass = "YOUR-DB-PASSWORD";
 
-# dxspider view demo
+# dxspider basic web demo
 https://cluster.iz3mez.it/mobile/
