@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 
-<title>DX SPIDER WEB BASIC CLUSTER</title>
+<title>DX SPIDER WEB BASIC CLUSTER BY IZ3MEZ</title>
 </head>
 <style type="text/css">
 .console {
@@ -51,6 +51,7 @@ $conn->close();
 ?>
 </tbody>
 </table>
+<?php echo "DX SPIDER WEB BASIC CLUSTER - 2019 copyleft IZ3MEZ";  ?>
 </body>
 </html>
 
